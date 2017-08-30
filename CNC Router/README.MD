@@ -4,7 +4,7 @@ G-Code files for printing: G-Code for all 3D Printed parts are stored here.
 
 grbl-master-Firmware: Modified firmware for CNCx Pro V3.
 
-GRBL-Panel: Opensource G-Code Sender, download the latest version here, https://github.com/gerritv/Grbl-Panel
+GRBL-Panel: Opensource G-Code Sender, download the latest version here: https://github.com/gerritv/Grbl-Panel
 
 Parts List: Costs and were to buy every component to create the RRCnC router. Please note this list excludes most of the screws neccessary.
 
